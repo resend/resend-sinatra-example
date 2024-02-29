@@ -11,7 +11,7 @@ GEM
     nio4r (2.7.0)
     puma (6.4.2)
       nio4r (~> 2.0)
-    rack (2.2.7)
+    rack (2.2.8.1)
     rack-protection (3.0.6)
       rack
     resend (0.10.0)
