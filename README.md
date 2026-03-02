@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Sinatra examples here](https://github.com/resend/resend-examples/tree/main/ruby-resend-examples/sinatra_app)**
+
+---
+
+
 # Resend with Sinatra
 
 This example shows how to use Resend with [Sinatra](https://sinatrarb.com).
