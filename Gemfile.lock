@@ -18,7 +18,7 @@ GEM
     rack (2.2.7)
     rack-protection (3.0.6)
       rack
-    resend (1.0.0)
+    resend (1.0.1)
       httparty (>= 0.21.0)
     ruby2_keywords (0.0.5)
     sinatra (3.0.6)
